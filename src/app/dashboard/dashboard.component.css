@@ -1,0 +1,97 @@
+.row{
+    display: flex;
+    padding-left: 80px;
+    margin-top: 80px;
+
+
+}
+.col-6{
+    padding-right: 100px;
+}
+
+
+.login-block {
+    width: 500px;
+    padding: 30px;
+    background: rgb(234, 237, 247);
+    border-radius: 5px;
+    border:4px solid rgb(1, 3, 121);
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+
+.login-block input {
+    width: 100%;
+    height: 42px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    border: 1px solid rgb(45, 10, 133);
+    margin-bottom: 20px;
+    font-size: 13px;
+    padding-left: 30px;
+    outline: none;
+}
+
+
+.login-block button {
+    background:  rgb(180, 180, 244);
+    width: 200px;
+    height: 40px;
+    font-size: 20px solid;
+    cursor: pointer;
+    margin-left: 110px;
+    padding-left: 30px;
+}
+
+.login-block button:hover {
+    background-color: rgb(145, 145, 238);
+
+} 
+
+/* .login-block input:hover {
+    background-color:  rgb(0, 255, 213);
+
+}  */
+
+
+
+
+ .h{
+    color:rgb(12, 2, 90);
+    text-align: center;
+    font-size: 35px;
+
+    
+    
+} 
+
+.p1{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(12, 12, 123);
+    font-size: 50px;
+    font-style:normal;
+
+    
+    
+}
+
+a{
+    padding-left: 90px;
+}
+
+#i{
+    color: rgb(25, 25, 161);
+}
+#n{
+    color: rgb(25, 25, 161);
+   
+}
+#m{
+    color: rgb(25, 25, 161);
+
+}
+.cc{
+    opacity: 0;
+}
